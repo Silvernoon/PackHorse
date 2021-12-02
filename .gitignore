@@ -1,0 +1,6 @@
+bin
+obj
+/packages
+PackHorse.sln.DotSettings.user
+.idea
+.vs
