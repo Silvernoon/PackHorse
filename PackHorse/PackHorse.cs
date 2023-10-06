@@ -7,6 +7,7 @@ using SkillManager;
 namespace PackHorse;
 
 [BepInPlugin(ModGUID, ModName, ModVersion)]
+[BepInIncompatibility("org.bepinex.plugins.valheim_plus")]
 public class PackHorse : BaseUnityPlugin
 {
 	private const string ModName = "PackHorse";
